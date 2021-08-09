@@ -21,4 +21,4 @@
 
 ## Diacritics removal and non-ascii conversion are done by using unidecode package.
 
-## contractions expantions using contractions package.
+## contractions expansions using contractions package.
